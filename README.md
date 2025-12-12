@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HomoSapien21
-- 📫 How to reach me email me on @ahmedazharr@outlook.com or @ahmed.azhar521@gmail.com
+- 📫 How to reach me email me on @ahmed.azhar521@gmail.com
 
 <!---
 HomoSapien21/HomoSapien21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
