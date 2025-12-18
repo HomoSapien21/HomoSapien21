@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad Ahmed
+- 👋 Hi, I’m Mohammad Ahmed
 - 📫 How to reach me email me on @ahmed.azhar521@gmail.com
 
 <!---
