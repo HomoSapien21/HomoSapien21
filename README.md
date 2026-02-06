@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Ahmed
+- 👋 Hi, I’m Muhammad Ahmed
 - 📫 How to reach me email me on @ahmed.azhar521@gmail.com
 - My Portfolio https://portfolio-fawn-five-41.vercel.app/
 
